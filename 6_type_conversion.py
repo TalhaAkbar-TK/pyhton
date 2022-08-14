@@ -7,4 +7,4 @@ print(type(y))
 
 #explicit type conversion
 gpa=float(input("what is your GPA"))
-print(gpa)
+print("your GPA is",gpa)
