@@ -1,8 +1,8 @@
 # pyhton
-My practise work
-1- Phyton basic
-2-Data wrangling
-3-EDA
-4-Indexing Data Structures
-5-Numpy library 
-6-Pandas library
+My practise work<br />
+1- Phyton basic<br />
+2-Data wrangling<br />
+3-EDA<br />
+4-Indexing Data Structures<br />
+5-Numpy library <br />
+6-Pandas library<br />
