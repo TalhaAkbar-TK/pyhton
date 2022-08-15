@@ -19,9 +19,9 @@ num_2 = int(input("Enter your 2nd number:"))
 num =num_1 * num_2
 print("Product of your to number:",num)
 
-# Ali,Ahmad , Kamal and Hamid want to order pizza - they will each eat
-# 4 slices of pizza, The local pizza shop sells pizzas of only 6 slices 
-# What is the minimum number of pizzas needed - use floor division
+'''Ali,Ahmad , Kamal and Hamid want to order pizza - they will each eat
+4 slices of pizza, The local pizza shop sells pizzas of only 6 slices 
+ What is the minimum number of pizzas needed - use floor division'''
 t_s = 4 * 4 
 number_of_pizzas =(t_s + 5)//6
 s_left = number_of_pizzas*6 - t_s
